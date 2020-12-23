@@ -4,7 +4,12 @@
 void Interactor::Loop() {
     while (run) {
         int t;
-        cout << "\nLoad from file - \"1\"\nPrint - \"2\"\nUpload to file - \"3\"\nAdd element - \"4\"\nExit - \"0\"\n";
+        cout << "\nLoad from file - \"1\""
+                "\nPrint - \"2\""
+                "\nUpload to file - \"3\""
+                "\nAdd element - \"4\""
+                "\nRemove element - \"5\""
+                "\nExit - \"0\"\n";
         cin >> t;
 
         switch (t) {
@@ -65,8 +70,15 @@ void Interactor::Loop() {
                 cout << "Rating:\n";
                 std::getline(std::cin, rating);
 
-                Elections e(fullname, birthDate, job, rating);
+                Elections e(_fileSystem->GetNextID(),fullname, birthDate, job, rating);
                 _fileSystem->Save(e);
+                break;
+            }
+            case(5): {
+                int id;
+                cout<<"ID:\n";
+                std::cin>>id;
+                _fileSystem->Remove(id);
                 break;
             }
             default:
@@ -117,5 +129,9 @@ void Interactor::PrintInfo(bool lgToSmall, double limiter) {
         }
     }
     cout << "***END***\n";
+}
+
+Interactor::~Interactor() {
+    delete _fileSystem;
 }
 

@@ -1,5 +1,5 @@
 #include "Interactor.h"
-#include <vld.h>
+//#include <vld.h>
 #include <locale.h>
 int main() {
     setlocale(LC_ALL, "Ru");

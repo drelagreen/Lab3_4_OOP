@@ -1,3 +1,0 @@
-E:/SFEDU/labs/oop/lab4/lab4/out/build/x64-Debug (по умолчанию)/CMakeFiles/clion.dir
-E:/SFEDU/labs/oop/lab4/lab4/out/build/x64-Debug (по умолчанию)/CMakeFiles/edit_cache.dir
-E:/SFEDU/labs/oop/lab4/lab4/out/build/x64-Debug (по умолчанию)/CMakeFiles/rebuild_cache.dir

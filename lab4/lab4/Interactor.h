@@ -17,8 +17,6 @@ public:
 
     explicit Interactor(ElectionsRepo *fileSystem);
 
-    ~Interactor(){
-        delete _fileSystem;
-    }
+    ~Interactor();
 };
 

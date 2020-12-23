@@ -1,3 +1,0 @@
-/mnt/e/SFEDU/labs/oop/lab3/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/e/SFEDU/labs/oop/lab3/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/e/SFEDU/labs/oop/lab3/lab3/cmake-build-debug/CMakeFiles/untitled.dir

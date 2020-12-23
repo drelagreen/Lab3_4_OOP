@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/clion.dir/lab4.cpp.o CMakeFiles/clion.dir/Elections.cpp.o CMakeFiles/clion.dir/ElectionsRepo.cpp.o CMakeFiles/clion.dir/Interactor.cpp.o  -o clion 

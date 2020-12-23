@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="clion" targetName="clion" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5d70bb3-5d4f-40a0-9b83-aa9def643410" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lab3/.vs/lab3/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/.vs/lab3/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/.vs/lab3/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/.vs/lab3/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/Debug/lab3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/Debug/lab3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/Debug/lab3.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/Debug/lab3.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/Debug/lab3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/Debug/lab3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/Interactor.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/Interactor.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/Rectangle.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/Rectangle.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/Shape.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/Shape.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/ShapeFactory.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/ShapeFactory.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/ShapeUtil.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/ShapeUtil.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/Square.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/Square.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/Triangle.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/Triangle.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.exe.recipe" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.exe.recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/lab3.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/lab3.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/lab3.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/Shape.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/Shape.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/lab3/ShapeFactory.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/lab3/ShapeFactory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/3520e3de8da361b7/ELECTIONSREPO.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/430e57b045e2e3ba/INTERACTOR.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/55d7f1cb9e8ac806/FILEREADER.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/7ec490bc2a97888b/XTHROW.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/8530ca16f35e1433/ELECTIONS.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/aa13725076f59475/ELECTIONS.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/b47db1fa19ac5f00/INTERACTOR.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/d955d4d1bfa7e686/LAB4.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/e751e869d090cf78/FILEREADER.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/lab4/v16/ipch/AutoPCH/f91416ea203a4870/LAB4.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Elections.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/ElectionsRepo.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/FileReader.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Interactor.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.tlog/lab4.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/lab4.vcxproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elections.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Elections.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elections.h" beforeDir="false" afterPath="$PROJECT_DIR$/Elections.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectionsRepo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ElectionsRepo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectionsRepo.h" beforeDir="false" afterPath="$PROJECT_DIR$/ElectionsRepo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interactor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Interactor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interactor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Interactor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/Elections.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/Elections.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/ElectionsRepo.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/ElectionsRepo.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/Interactor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/Interactor.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/lab4.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/lab4.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/clion" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/clion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/clion.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/clion.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lol.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/.cmake/api/v1/query/client-MicrosoftVS/query.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/.cmake/api/v1/reply/cache-v2-a9abc6772c04b0a63721.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/.cmake/api/v1/reply/cmakeFiles-v1-8b66b4b29076c0edd23e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/.cmake/api/v1/reply/codemodel-v2-2750f451a5a3def1d1d3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/.cmake/api/v1/reply/index-2020-12-17T10-03-46-0321.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/.cmake/api/v1/reply/target-clion-Debug-9533e6c7a7f6d1b23306.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/ShowIncludes/foo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/ShowIncludes/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/ShowIncludes/main.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/VSInheritEnvironments.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug (по умолчанию)/cmake_install.cmake" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ll7M4yhWSEpaKQHyRLNpaGBNHV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SFEDU\labs\oop\lab4\lab4\cmake-build-debug" />
+      <recent name="C:\Users\dmitr\source\repos\lab4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clion" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="clion" TARGET_NAME="clion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="clion" RUN_TARGET_NAME="clion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5d70bb3-5d4f-40a0-9b83-aa9def643410" name="Default Changelist" comment="" />
+      <created>1608159772818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608159772818</updated>
+      <workItem from="1608159774031" duration="216000" />
+      <workItem from="1608294443902" duration="2079000" />
+      <workItem from="1608447321884" duration="1316000" />
+      <workItem from="1608464513625" duration="2036000" />
+      <workItem from="1608480756593" duration="16760000" />
+      <workItem from="1608554411438" duration="4578000" />
+      <workItem from="1608725576550" duration="7510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

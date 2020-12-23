@@ -10,7 +10,9 @@
 
 class ElectionsRepo {
 private:
+    int _id;
     std::map<double, std::set<Elections>> _localDatabase;
+    std::map<const int, Elections> _localIDs;
 public:
     void Read(const std::string &path);
 
@@ -18,12 +20,12 @@ public:
 
     void Save(const Elections &e);
 
-    auto GetBeginIterator() {
-            return _localDatabase.begin();
+    void Remove(int id);
 
-    }
+    std::map<double, std::set<Elections>>::iterator GetBeginIterator();
 
-    auto GetEndIterator(){
-        return _localDatabase.end();
-    }
+    std::map<double, std::set<Elections>>::iterator GetEndIterator();
+
+    int GetNextID();
+
 };

@@ -33,7 +33,7 @@ void ElectionsRepo::Read(const std::string &path) {
 
             int ratingEnd = line.length() - 1;
             rating = line.substr(workEnd + 2, ratingEnd - workEnd - 1);
-            Elections e(name1.append(" ").append(name2).append(" ").append(name3), date, work, rating);
+            Elections e(GetNextID(),name1.append(" ").append(name2).append(" ").append(name3), date, work, rating);
             Save(e);
         }
     }
@@ -41,15 +41,14 @@ void ElectionsRepo::Read(const std::string &path) {
 }
 
 void ElectionsRepo::Save(const Elections &e) {
-    std::set<Elections> s;
     if (!_localDatabase.contains(e.GetRating())) {
+        std::set<Elections> s;
         s.insert(e);
         _localDatabase.insert(std::pair<double, std::set<Elections>>(e.GetRating(), s));
     } else {
-        s = _localDatabase[e.GetRating()];
-        s.insert(e);
-        _localDatabase[e.GetRating()] = s;
+        _localDatabase[e.GetRating()].insert(e);
     }
+    _localIDs.insert(std::pair(e.getID(), e));
 }
 
 void ElectionsRepo::Write(const std::string &path) {
@@ -67,4 +66,36 @@ void ElectionsRepo::Write(const std::string &path) {
         std::cout<<"Can not open the file!\n";
     }
     out.close();
+}
+
+int ElectionsRepo::GetNextID() {
+    return _id++;
+}
+
+void ElectionsRepo::Remove(int id) {
+    int size = _localDatabase.size();
+
+    for (auto i = _localDatabase.begin(); i != _localDatabase.end(); i++){
+        auto j = i->second.begin();
+        auto end = i->second.end();
+        for (; j != end; j++){
+            if (j->getID() == id){
+                i->second.erase(j);
+                if (i->second.empty()){
+                    _localDatabase.erase(i);
+                }
+                std::cout<<"Erased!\n";
+                return;
+            }
+        }
+    }
+    std::cout<<"Not found!\n";
+}
+
+std::map<double, std::set<Elections>>::iterator ElectionsRepo::GetBeginIterator() {
+    return _localDatabase.begin();
+}
+
+std::map<double, std::set<Elections>>::iterator ElectionsRepo::GetEndIterator() {
+    return _localDatabase.end();
 }

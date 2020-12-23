@@ -1,25 +1,27 @@
 #include "Elections.h"
+#include "ElectionsRepo.h"
 
-Elections::Elections(std::string fullname, std::string birthDate, std::string work, const std::string &rating) {
+Elections::Elections(int id,std::string fullname, std::string birthDate, std::string work, const std::string &rating) {
     this->_fullName = std::move(fullname);
     this->_birthDate = std::move(birthDate);
     this->_job = std::move(work);
     this->_rating = std::stod(rating);
+    _id = id;
 }
 
 double Elections::GetRating() const {
     return _rating;
 }
 
-std::string Elections::GetBirthDate() {
+std::string Elections::GetBirthDate() const{
     return _birthDate;
 }
 
-std::string Elections::GetJob() {
+std::string Elections::GetJob() const{
     return _job;
 }
 
-std::string Elections::GetFullName() {
+std::string Elections::GetFullName() const{
     return _fullName;
 }
 
@@ -42,12 +44,18 @@ bool Elections::operator<(const Elections &e) const{
     return false;
 }
 
-std::string Elections::ToString() {
+std::string Elections::ToString() const{
+
     return "Elections { "
-           "fullName: '" + _fullName +
+           "id: '"+ std::to_string(_id)+
+           "', fullName: '" + _fullName +
            "', birthDate: '" + _birthDate +
            "', job: '" + _job +
            "', rating: '" + std::to_string(_rating) +
            "' }";
+}
+
+int Elections::getID() const {
+    return _id;
 }
 
